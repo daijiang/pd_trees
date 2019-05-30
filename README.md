@@ -4,4 +4,4 @@ It is not 100% reproducible here because of the _large_ files produced by simula
 
 If you found these codes are useful, please cite the paper:
 
->Li et al. (2019). For common community phylogenetic analyses, go ahead and use synthesis phylogenies.
+>Li et al. (2019). For common community phylogenetic analyses, go ahead and use synthesis phylogenies. Ecology.
